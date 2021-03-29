@@ -1,8 +1,7 @@
 def passWord(p):
-    
     if p == "Knights19":
-        print("Access Granted")
+        return "Access Granted"
 
     else:
-        print("Access Denied")
+        return "Access Denied"
  
